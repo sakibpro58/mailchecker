@@ -1,0 +1,8 @@
+[setup]
+nodejs = "nodejs_16"
+
+[install]
+cmds = ["npm install"]
+
+[start]
+cmds = ["npm run start"]
